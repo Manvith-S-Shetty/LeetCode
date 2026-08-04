@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -123,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0735-asteroid-collision) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

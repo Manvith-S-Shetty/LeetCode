@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0496-next-greater-element-i) |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0402-remove-k-digits) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0402-remove-k-digits) |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Minimax
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

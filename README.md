@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1544-make-the-string-great) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |

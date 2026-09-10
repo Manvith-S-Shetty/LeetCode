@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 | [3870-count-commas-in-range](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

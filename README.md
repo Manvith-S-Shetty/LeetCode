@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0321-create-maximum-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |

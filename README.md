@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Minimax
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0641-design-circular-deque) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
 | ------- |

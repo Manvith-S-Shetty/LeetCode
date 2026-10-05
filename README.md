@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1406-stone-game-iii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Minimax
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/0641-design-circular-deque) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Manvith-S-Shetty/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
